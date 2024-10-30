@@ -24,7 +24,7 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em PHP e Laravel, com exper
 ### 💼 Experiência Profissional
 
 - **Desenvolvimento com Laravel:** Experiência na criação de APIs RESTful e sistemas, garantindo segurança e escalabilidade.
-- **Integração de serviços da AWS:** Experiência na criação de APIs RESTful e sistemas, garantindo segurança e escalabilidade.
+- **Integração de serviços da AWS:** Experiência com AWS S3 para armazenamento seguro de dados e integração com serviços web.
 - **Deploy e Manutenção com Docker:** Experiência em configurar e gerenciar contêineres para ambientes de desenvolvimento.
 - **Integração e Documentação de APIs:** Utilização de Swagger e OpenAPI para documentação, facilitando a integração e comunicação entre equipes.
 - **Frontend e Estilização:** Conhecimento em JavaScript, Bootstrap e Tailwind para criação de interfaces responsivas e intuitivas.
@@ -34,7 +34,8 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em PHP e Laravel, com exper
 
 ### 🌱 Interesses em Aprendizado
 
-xxxx
+Estou sempre buscando novas tecnologias para aprimorar minhas habilidades e otimizar processos. No momento, estou explorando frameworks modernos como **React** para frontend e **Vite** para bundling, além de aprofundar meus conhecimentos em **DevOps** com ferramentas de CI/CD e automação. Também tenho interesse em expandir meu uso da **AWS** para soluções escaláveis em cloud e explorar integrações com **Inteligência Artificial**.
+
 ---
 
 ### 📫 Contato
@@ -45,4 +46,3 @@ xxxx
 </div>
 
 ---
-
