@@ -34,7 +34,7 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em PHP e Laravel, com exper
 
 ### 🌱 Interesses em Aprendizado
 
-Estou sempre buscando novas tecnologias para aprimorar minhas habilidades e otimizar processos. No momento, estou explorando frameworks modernos como **React** para frontend e **Vite** para bundling, além de aprofundar meus conhecimentos em **DevOps** com ferramentas de CI/CD e automação. Também tenho interesse em expandir meu uso da **AWS** para soluções escaláveis em cloud e explorar integrações com **Inteligência Artificial**.
+Estou sempre buscando novas tecnologias para aprimorar minhas habilidades e otimizar processos. No momento, estou explorando frameworks modernos como **React** para frontend.
 
 ---
 
