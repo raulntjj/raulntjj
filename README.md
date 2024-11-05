@@ -25,7 +25,6 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em PHP e Laravel, com exper
 
 - **Desenvolvimento com Laravel:** Experiência na criação de APIs RESTful e sistemas, garantindo segurança e escalabilidade.
 - **Integração de serviços da AWS:** Experiência com AWS S3 para armazenamento seguro de dados e integração com serviços web.
-- **Deploy e Manutenção com Docker:** Experiência em configurar e gerenciar contêineres para ambientes de desenvolvimento.
 - **Integração e Documentação de APIs:** Utilização de Swagger e OpenAPI para documentação, facilitando a integração e comunicação entre equipes.
 - **Frontend e Estilização:** Conhecimento em JavaScript, Bootstrap e Tailwind para criação de interfaces responsivas e intuitivas.
 - **Metodologias Ágeis e Scrum:** Experiência em trabalho em equipe com metodologias ágeis e ferramentas de gestão de projetos como JIRA.
@@ -34,15 +33,14 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em PHP e Laravel, com exper
 
 ### 🌱 Interesses em Aprendizado
 
-Estou sempre buscando novas tecnologias para aprimorar minhas habilidades e otimizar processos. No momento, estou explorando frameworks modernos como **React** para frontend.
 
 ---
 
 ### 📫 Contato
 
 <div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:seuemail@dominio.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/raulntjj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:raulntjj@dominio.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 ---
