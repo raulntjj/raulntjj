@@ -2,17 +2,6 @@
 
 Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em PHP e Laravel, com experiência em desenvolvimento de APIs RESTful e integração de sistemas. Atualmente, trabalho na equipe de desenvolvimento do  VersaURB, desenvolvendo soluções para o sistema VersaURB.
 
----
-## 📊 GitHub Stats e Linguagens
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raulntjj&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; height: 12rem">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulntjj&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; height: 12rem">
-</div>
-
-
----
-
 ### 💻 Tecnologias e Ferramentas
 <div style="display: flex; gap: 15px; align-items: center;">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -46,6 +35,15 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em PHP e Laravel, com exper
 ### 🌱 Interesses em Aprendizado
 
 - **Node.js:** Estou expandindo minhas habilidades no ecossistema Node.js, com foco particular em Fastify. Buscando explorar ao máximo minhas capacidades para construir APIs leves e performáticas,
+
+---
+
+## 📊 GitHub Stats e Linguagens
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raulntjj&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; height: 12rem">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulntjj&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; height: 12rem">
+</div>
 
 ---
 
