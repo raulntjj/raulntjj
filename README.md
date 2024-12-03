@@ -4,6 +4,12 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em PHP e Laravel, com exper
 
 ---
 
+###
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raulntjj&show_icons=true&theme=radical)
+
+---
+
 ### 💻 Tecnologias e Ferramentas
 <div style="display: flex; gap: 15px; align-items: center;">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
