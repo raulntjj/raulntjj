@@ -5,16 +5,12 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em PHP e Laravel, com exper
 ---
 ## 📊 GitHub Stats e Linguagens
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=raulntjj&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulntjj&layout=compact&theme=radical" alt="Top Languages" width="300">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raulntjj&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulntjj&layout=compact&theme=radical" alt="Top Languages">
+</div>
+
 
 ---
 
