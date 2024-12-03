@@ -3,11 +3,18 @@
 Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em PHP e Laravel, com experiência em desenvolvimento de APIs RESTful e integração de sistemas. Atualmente, trabalho na equipe de desenvolvimento do  VersaURB, desenvolvendo soluções para o sistema VersaURB.
 
 ---
+## 📊 GitHub Stats e Linguagens
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raulntjj&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulntjj&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=raulntjj&show_icons=true&theme=radical" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulntjj&layout=compact&theme=radical" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
 ---
 
