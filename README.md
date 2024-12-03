@@ -7,7 +7,7 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em PHP e Laravel, com exper
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raulntjj&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; height: 15rem">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulntjj&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; height: 15rem">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulntjj&layout=compact&theme=radical" alt="Top Languages" style="width: 48%; height: 10rem">
 </div>
 
 
