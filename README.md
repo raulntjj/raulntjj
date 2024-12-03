@@ -33,7 +33,7 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em PHP e Laravel, com exper
 
 ### 🌱 Interesses em Aprendizado
 
-- **Node.js:** Estou expandindo minhas habilidades no ecossistema Node.js, com foco particular em Fastify. Busco explorar ao máximo minhas capacidades para construir APIs leves e performáticas,
+- **Node.js:** Estou expandindo minhas habilidades no ecossistema Node.js, com foco particular em Fastify. Buscando explorar ao máximo minhas capacidades para construir APIs leves e performáticas,
 
 ---
 
