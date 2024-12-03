@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Raul de Oliveira Goncalves!
 
-Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em PHP e Laravel, com experiência em desenvolvimento de APIs RESTful e integração de sistemas. Atualmente, trabalho no setor de Urbanismo, desenvolvendo soluções para o sistema VersaURB.
+Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em PHP e Laravel, com experiência em desenvolvimento de APIs RESTful e integração de sistemas. Atualmente, trabalho na equipe de desenvolvimento do  VersaURB, desenvolvendo soluções para o sistema VersaURB.
 
 ---
 
@@ -24,7 +24,7 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em PHP e Laravel, com exper
 ### 💼 Experiência Profissional
 
 - **Desenvolvimento com Laravel:** Experiência na criação de APIs RESTful e sistemas, garantindo segurança e escalabilidade.
-- **Integração de serviços da AWS:** Experiência com AWS S3 para armazenamento seguro de dados e integração com serviços web.
+- **Integração de serviços da AWS:** Experiência com serviços oferecidos pela AWS, como a S3 e EC2.
 - **Integração e Documentação de APIs:** Utilização de Swagger e OpenAPI para documentação, facilitando a integração e comunicação entre equipes.
 - **Frontend e Estilização:** Conhecimento em JavaScript, Bootstrap e Tailwind para criação de interfaces responsivas e intuitivas.
 - **Metodologias Ágeis e Scrum:** Experiência em trabalho em equipe com metodologias ágeis e ferramentas de gestão de projetos como JIRA.
@@ -33,6 +33,7 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em PHP e Laravel, com exper
 
 ### 🌱 Interesses em Aprendizado
 
+- **NODE.JS:** Atualmente aprimorando conhecimento do ecossistema Node, em especial na micro-framework Fastify.
 
 ---
 
