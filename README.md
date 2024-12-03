@@ -4,9 +4,10 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor focado em PHP e Laravel, com exper
 
 ---
 
-###
-
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raulntjj&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulntjj&layout=compact&theme=radical)
 
 ---
 
