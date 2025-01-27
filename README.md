@@ -4,7 +4,7 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor WEB, com experiência em desenvolv
 
 ### 💻 Tecnologias e Ferramentas
 <div style="display: flex; gap: 15px; align-items: center;">
-  // Languages
+  ### Languages
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 
@@ -21,7 +21,6 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor WEB, com experiência em desenvolv
   //DB
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS S3">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 
   //Others
