@@ -32,20 +32,49 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor WEB, com experiência em desenvolv
 
 ---
 
-### 💼 Experiência Profissional
+# 💼 Experiência Profissional
 
-- **Desenvolvimento com Laravel:** Atuação no desenvolvimento de sistemas web, criando funcionalidades escaláveis e realizar integrações com serviços externos. Experiência em projetos que exigem alta performance, segurança e aplicação das melhores práticas do framework para atender a demandas empresariais.
-- **Desenvolvimento de APIs REST:** Experiência no desenvolvimento de APIs REST e RESTful para diferentes contextos e necessidades, utilizando frameworks como Laravel, Lumen, Fastify e Express. Capacidade de escolher a ferramenta mais adequada para cada caso, garantindo eficiência, validação de dados robusta, padronização de respostas e documentação clara.
-- **Integração de serviços da AWS:** Experiência com utilização de serviços oferecidos pela AWS, como a S3 e EC2.
-- **Frontend e Estilização:** Experiência com frameworks de JavaScript como NextJS e em frameworks de estilização como Tailwind para criação de interfaces responsivas e intuitivas.
-- **Metodologias Ágeis e Scrum:** Experiência em trabalho em equipe com metodologias ágeis e ferramentas de gestão de projetos como JIRA.
+## 🖥️ Desenvolvimento Web e Backend
+
+### Laravel
+Atuo no desenvolvimento de sistemas web escaláveis, aplicando as melhores práticas do framework para garantir segurança, performance e manutenibilidade. Tenho experiência na criação de funcionalidades robustas e integrações com serviços externos, atendendo a demandas empresariais exigentes.
+
+### Next.js
+Tenho experiência no desenvolvimento de aplicações frontend utilizando Next.js, garantindo interfaces dinâmicas, otimizadas e com excelente desempenho. Desenvolvi uma aplicação frontend para um software web de planejamento de aulas escolares e, atualmente, trabalho no software **Morar Legal**.
+
+### Lumen
+Desenvolvi APIs utilizando Lumen (microframework do PHP) para um software web voltado ao planejamento de aulas em escolas. A arquitetura modular permitiu alta eficiência no processamento de requisições e integração com outras plataformas.
+
+### Node.js
+Experiência no desenvolvimento de soluções utilizando **Express.js** para integrações entre bancos de dados. Além disso, implementei uma solução com **Fastify** para fornecer dados randômicos utilizados em testes no sistema **Morar Legal**.
+
+## 🌐 Desenvolvimento de APIs REST
+Possuo experiência no desenvolvimento de **APIs REST** e **RESTful** para diferentes contextos e necessidades, utilizando frameworks como **Laravel, Lumen e Fastify**. Trabalho com boas práticas como padronização de respostas, validação de dados robusta e documentação detalhada (incluindo Swagger/OpenAPI), garantindo a eficiência e a confiabilidade das APIs.
+
+## ☁️ Cloud Computing e Infraestrutura
+Tenho experiência em **Cloud Computing**, utilizando serviços como **AWS (S3, EC2)** para armazenamento e hospedagem. Além disso, possuo conhecimento em **orquestração de containers**, tanto para ambientes de desenvolvimento quanto para produção, garantindo escalabilidade e facilidade na manutenção dos serviços.
+
+## 🚀 Versionamento e Metodologias Ágeis
+- Experiência em **Git avançado**, incluindo workflows como Git Flow, rebase, cherry-pick e gerenciamento de branches para ambientes de produção e desenvolvimento.
+- Trabalho com **metodologias ágeis (Scrum)** e utilizo ferramentas de gestão de projetos como **JIRA**, promovendo colaboração eficiente e entregas contínuas.
 
 ---
 
-### 🌱 Interesses em Aprendizado
+# 🌱 Interesses em Aprendizado
 
-- **Node.js:** Estou expandindo minhas habilidades no ecossistema Node.js, com foco particular em Fastify. Buscando explorar ao máximo minhas capacidades para construir APIs leves e performáticas,
-- **Next.js:** Atualmente, estou me aprofundando em Next.js para desenvolvimento frontend com integração com APIs REST. Meu objetivo é criar aplicações modernas, rápidas e responsivas, com um design clean e intuitivo.
+## 🚀 Tecnologias em foco
+
+### **Next.js**
+Atualmente, estou me aprofundando em **Next.js** para o desenvolvimento frontend com integração com APIs REST. Meu objetivo é criar aplicações modernas, rápidas e responsivas, com um design clean e intuitivo. Busco dominar **React Query, ShadCN e estratégias de SSR/SSG** para otimizar a experiência do usuário.
+
+### **Microserviços**
+Estou explorando **arquitetura de microserviços**, aprendendo sobre escalabilidade, comunicação entre serviços e ferramentas como **Docker, Kubernetes, RabbitMQ, e mensageria assíncrona**. Meu foco é construir APIs performáticas, desacopladas e fáceis de escalar.
+
+### **C# para Microserviços**
+Planejo aprender **C#** para desenvolver microserviços, explorando o ecossistema **.NET** para criar soluções robustas, seguras e escaláveis. Pretendo aprofundar meus conhecimentos em **ASP.NET Core, gRPC e mensageria com MassTransit**.
+
+📌 Sempre aberto a novos desafios e aprendizados! 🚀
+
 ---
 
 ## 📊 GitHub Stats e Linguagens
