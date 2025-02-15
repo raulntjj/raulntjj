@@ -65,10 +65,10 @@ Tenho experiência em **Cloud Computing**, utilizando serviços como **AWS (S3, 
 ## 🚀 Tecnologias em foco
 
 ### **Next.js**
-Atualmente, estou me aprofundando em **Next.js** para o desenvolvimento frontend com integração com APIs REST. Meu objetivo é criar aplicações modernas, rápidas e responsivas, com um design clean e intuitivo. Busco dominar **React Query, ShadCN e estratégias de SSR/SSG** para otimizar a experiência do usuário.
+Atualmente, estou me aprofundando em **Next.js** para o desenvolvimento frontend com integração com APIs REST. Meu objetivo é criar aplicações modernas, rápidas e responsivas, com um design clean e intuitivo.
 
 ### **Microserviços**
-Estou explorando **arquitetura de microserviços**, aprendendo sobre escalabilidade, comunicação entre serviços e ferramentas como **Docker, Kubernetes, RabbitMQ, e mensageria assíncrona**. Meu foco é construir APIs performáticas, desacopladas e fáceis de escalar.
+Estou explorando **arquitetura de microserviços**, aprendendo sobre escalabilidade, comunicação entre serviços e ferramentas como **Docker, RabbitMQ, e mensageria assíncrona**. Meu foco é aprender a construir APIs performáticas, desacopladas e fáceis de escalar.
 
 ### **C# para Microserviços**
 Planejo aprender **C#** para desenvolver microserviços, explorando o ecossistema **.NET** para criar soluções robustas, seguras e escaláveis. Pretendo aprofundar meus conhecimentos em **ASP.NET Core, gRPC e mensageria com MassTransit**.
