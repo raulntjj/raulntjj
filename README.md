@@ -70,9 +70,6 @@ Atualmente, estou me aprofundando em **Next.js** para o desenvolvimento frontend
 ### **Microserviços**
 Estou explorando **arquitetura de microserviços**, aprendendo sobre escalabilidade, comunicação entre serviços e ferramentas como **Docker, RabbitMQ, e mensageria assíncrona**. Meu foco é aprender a construir APIs performáticas, desacopladas e fáceis de escalar.
 
-### **C# para Microserviços**
-Planejo aprender **C#** para desenvolver microserviços, explorando o ecossistema **.NET** para criar soluções robustas, seguras e escaláveis. Pretendo aprofundar meus conhecimentos em **ASP.NET Core, gRPC e mensageria com MassTransit**.
-
 📌 Sempre aberto a novos desafios e aprendizados! 🚀
 
 ---
