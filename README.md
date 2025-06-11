@@ -1,43 +1,32 @@
 <h2 align="center">Olá! 👋 Me chamo Raul de Oliveira Goncalves</h2>
 
-<p align="center">Desenvolvedor Backend focado em APIs robustas, microsserviços e soluções em nuvem.</p>
+<p align="center">Desenvolvedor FullStack, com foco em Backend.</p>
 
 ---
 
 ### 💼 Sobre mim
 
-Atuo profissionalmente com desenvolvimento backend utilizando **PHP**, com foco na construção de **APIs REST** utilizando **Laravel** e **Lumen**. Tenho experiência com integração de sistemas, mensageria com RabbitMQ, testes automatizados com **PHPUnit**, containers com **Docker**, e orquestração de serviços com **AWS ECS** e armazenamento em **AWS S3**.
+Sou desenvolvedor backend com experiência sólida em **PHP**, principalmente com os frameworks **Laravel** e **Lumen**, focado na criação de **APIs REST** robustas e escaláveis. Tenho vivência com arquitetura de microsserviços, mensageria, testes automatizados e conteinerização com Docker. Atualmente, estudo tecnologias avançadas como **Kubernetes** e o framework **Hyperf**.
 
-Atualmente, estou aprofundando meus conhecimentos em **arquitetura de microsserviços** e **Kubernetes**.
+Também possuo experiência com **Node.js**, trabalhando com os frameworks **Fastify** e **Express**, além de utilizar bancos de dados relacionais e não-relacionais.
 
 ---
 
-### 🚀 Stack Principal
+### 🚀 Stack e Tecnologias
 
-- 🔧 **Backend**: PHP, Laravel, Lumen, Node.js (Fastify)
-- 📦 **Testes**: PHPUnit
+- 🔧 **Linguagens & Frameworks**: PHP (Laravel, Lumen), JavaScript, TypeScript, Node.js (Fastify, Express)
+- 📦 **Testes Automatizados**: PHPUnit
 - 🌐 **APIs**: RESTful, Swagger
-- 🗄️ **Bancos de dados**: MySQL, PostgreSQL, Redis
 - ☁️ **Cloud & DevOps**: Docker (avançado), AWS (S3, ECS), RabbitMQ
-- 🌱 **Aprendizado atual**: Kubernetes, Microsserviços avançados
-
----
-
-### 🎨 Frontend (nível intermediário)
-
-Tenho domínio em ferramentas modernas do ecossistema JavaScript:
-
-- **Next.js**
-- **React**
-- **TypeScript**
-- **JavaScript**
-- **Tailwind CSS**
+- 🧠 **Aprendizado atual**: Hyperf, Kubernetes, Microsserviços avançados
+- 🗄️ **Bancos de dados**: MySQL, PostgreSQL, MongoDB, Redis
+- 💻 **Frontend** (nível intermediário): React, Next.js, Tailwind CSS
 
 ---
 
 ### 🛠️ Tecnologias que utilizo
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,lumen,js,ts,react,nextjs,tailwind,docker,rabbitmq,aws,mysql,postgres,redis,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,lumen,js,ts,nodejs,react,nextjs,tailwind,docker,rabbitmq,aws,mysql,postgres,mongodb,redis,linux)](https://skillicons.dev)
 
 ---
 
@@ -48,4 +37,4 @@ Tenho domínio em ferramentas modernas do ecossistema JavaScript:
 
 ---
 
-<p align="center">💡 Sempre buscando aprender mais, colaborar em equipe e construir soluções escaláveis.</p>
+<p align="center">💡 Apaixonado por tecnologia, sempre buscando evoluir e contribuir com soluções escaláveis e eficientes.</p>
