@@ -6,10 +6,9 @@
 
 ### 💼 Sobre mim
 
-Sou desenvolvedor backend com experiência sólida em **PHP**, principalmente com os frameworks **Laravel** e **Lumen**, focado na criação de **APIs REST** robustas e escaláveis. Tenho vivência com arquitetura de microsserviços, mensageria, testes automatizados e conteinerização com Docker. Atualmente, estudo tecnologias avançadas como **Kubernetes** e o framework **Hyperf**.
-
-Também possuo experiência com **Node.js**, trabalhando com os frameworks **Fastify** e **Express**, além de utilizar bancos de dados relacionais e não-relacionais.
-
+Sou estudante de Ciência da Computação (7º período) e atuo como Desenvolvedor Full Stack com foco em Backend na VersaTEC. Tenho sólida experiência na construção de APIs REST com PHP, utilizando os frameworks Laravel e Lumen, além de trabalhar com Node.js através do Fastify e Express.
+Sou entusiasta de novas tecnologias, e atualmente dedico meus estudos ao aprofundamento em microsserviços avançados, Kubernetes e no framework Hyperf, buscando maior performance e resiliência nas soluções que desenvolvo.
+Estou sempre em evolução contínua, com mentalidade de aprendizado constante e foco em escrever código limpo, testável e orientado à arquitetura.
 ---
 
 ### 🚀 Stack e Tecnologias
@@ -20,7 +19,7 @@ Também possuo experiência com **Node.js**, trabalhando com os frameworks **Fas
 - ☁️ **Cloud & DevOps**: Docker (avançado), AWS (S3, ECS), RabbitMQ
 - 🧠 **Aprendizado atual**: Hyperf, Kubernetes, Microsserviços avançados
 - 🗄️ **Bancos de dados**: MySQL, PostgreSQL, MongoDB, Redis
-- 💻 **Frontend** (nível intermediário): React, Next.js, Tailwind CSS
+- 💻 **Frontend**: React, Next.js, Tailwind CSS
 
 ---
 
