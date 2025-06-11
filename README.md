@@ -1,39 +1,58 @@
-<h2 align="center">Olá! 👋 Me chamo Raul de Oliveira Goncalves</h2>
+<h1 align="center">
+  👋 Olá, eu sou Raul de Oliveira Goncalves!
+  <br/>
+  <sub>Desenvolvedor FullStack com foco em Backend | PHP | Node.js | Arquitetura de Software</sub>
+</h1>
 
-<p align="center">Desenvolvedor FullStack, com foco em Backend.</p>
-
----
-
-### 💼 Sobre mim
-
-Sou estudante de Ciência da Computação (7º período) e atuo como Desenvolvedor Full Stack com foco em Backend na VersaTEC. Tenho sólida experiência na construção de APIs REST com PHP, utilizando os frameworks Laravel e Lumen, além de trabalhar com Node.js através do Fastify e Express.
-Sou entusiasta de novas tecnologias, e atualmente dedico meus estudos ao aprofundamento em microsserviços avançados, Kubernetes e no framework Hyperf, buscando maior performance e resiliência nas soluções que desenvolvo.
-Estou sempre em evolução contínua, com mentalidade de aprendizado constante e foco em escrever código limpo, testável e orientado à arquitetura.
----
-
-### 🚀 Stack e Tecnologias
-
-- 🔧 **Linguagens & Frameworks**: PHP (Laravel, Lumen), JavaScript, TypeScript, Node.js (Fastify, Express)
-- 📦 **Testes Automatizados**: PHPUnit
-- 🌐 **APIs**: RESTful, Swagger
-- ☁️ **Cloud & DevOps**: Docker (avançado), AWS (S3, ECS), RabbitMQ
-- 🧠 **Aprendizado atual**: Hyperf, Kubernetes, Microsserviços avançados
-- 🗄️ **Bancos de dados**: MySQL, PostgreSQL, MongoDB, Redis
-- 💻 **Frontend**: React, Next.js, Tailwind CSS
+<p align="center">
+  <a href="https://www.linkedin.com/in/raulntjj/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:raulntjj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tecnologias que utilizo
+## 🚀 Sobre Mim
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,lumen,js,ts,nodejs,react,nextjs,tailwind,docker,rabbitmq,aws,mysql,postgres,mongodb,redis,linux)](https://skillicons.dev)
+💻 Desenvolvedor Full Stack na VersaTEC
+📚 Cursando Ciência da Computação (7º período)
+🧠 Focado em Arquitetura de Software e Microsserviços
+🚀 Apaixonado por resolver problemas complexos
 
----
+🛠 Tech Stack
+🔧 Linguagens & Frameworks
 
-### 📫 Contato
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+🗄️ Bancos de Dados
 
-- [LinkedIn](https://www.linkedin.com/in/raulntjj/)
-- E-mail: raulntjj@gmail.com
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+🚀 DevOps & Cloud
 
----
+https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/AWS-%2523FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+https://img.shields.io/badge/rabbitmq-%2523FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white
+📚 Estudando Atualmente
 
-<p align="center">💡 Apaixonado por tecnologia, sempre buscando evoluir e contribuir com soluções escaláveis e eficientes.</p>
+https://img.shields.io/badge/kubernetes-%2523326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
+https://img.shields.io/badge/Hyperf-1890FF?style=for-the-badge
+📈 GitHub Stats
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raulntjj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulntjj&layout=compact&langs_count=7&theme=dracula"/> </p>
+💡 Filosofia de Desenvolvimento
+text
+
+🧹 Código limpo e bem estruturado
+🧪 Testes automatizados como prioridade
+📐 Arquitetura bem definida
+🚀 Performance e escalabilidade
+🔄 Melhoria contínua
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=raulntjj&label=Profile%20views&color=0e75b6&style=flat" alt="raulntjj" /> </p>
+```
