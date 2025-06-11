@@ -7,7 +7,7 @@
 ### 💼 Sobre mim
 
 <p>
-Sou estudante de Ciência da Computação (7º período) e atuo como Desenvolvedor Full Stack com foco em Backend na VersaTEC. Tenho sólida experiência na construção de APIs REST com PHP, utilizando os frameworks Laravel e Lumen, além de trabalhar com Node.js através do Fastify e Express.
+Sou estudante de Ciência da Computação (7º período) e atuo como Desenvolvedor Full Stack com foco em Backend na VersaTEC. Tenho sólida experiência na construção de APIs REST e plataformas com suporte a multiinstâncias, utilizando PHP com os frameworks Laravel e Lumen, além de trabalhar com Node.js por meio do Fastify e Express.
 <br /><br />
 Sou entusiasta de novas tecnologias, e atualmente dedico meus estudos ao aprofundamento em microsserviços avançados, Kubernetes e no framework Hyperf, buscando maior performance e resiliência nas soluções que desenvolvo.
 <br /><br />
