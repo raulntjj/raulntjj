@@ -21,7 +21,7 @@ Estou sempre em evolução contínua, com mentalidade de aprendizado constante e
 - 🔧 **Linguagens & Frameworks**: PHP (Laravel, Lumen), JavaScript, TypeScript, Node.js (Fastify, Express)
 - 📦 **Testes Automatizados**: PHPUnit
 - 🌐 **APIs**: RESTful, Swagger
-- ☁️ **Cloud & DevOps**: Docker (avançado), AWS (S3, ECS), RabbitMQ
+- ☁️ **Cloud & DevOps**: Docker (avançado), AWS (S3, ECS), RabbitMQ, CI/CD (Bitbucket Pipelines)
 - 🧠 **Aprendizado atual**: Hyperf, Kubernetes, Microsserviços avançados
 - 🗄️ **Bancos de dados**: MySQL, PostgreSQL, MongoDB, Redis
 - 💻 **Frontend**: React, Next.js, Tailwind CSS
