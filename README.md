@@ -48,9 +48,14 @@ Estou em constante evolução, aprofundando meus conhecimentos em **HyperF** e n
 
 ### 📊 GitHub Stats
 
-<p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raulntjj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulntjj&layout=compact&langs_count=7&theme=dracula"/> 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raulntjj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulntjj&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raulntjj&theme=dracula&hide_border=true" />
 </p>
 
 ---
