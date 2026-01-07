@@ -54,10 +54,6 @@ Estou em constante evolução, aprofundando meus conhecimentos em **HyperF** e n
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulntjj&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raulntjj&theme=dracula&hide_border=true" />
-</p>
-
 ---
 
 <p align="center">💡 "Construindo soluções resilientes e escaláveis através de engenharia de software aplicada."</p>
