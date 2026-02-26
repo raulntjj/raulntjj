@@ -1,26 +1,24 @@
 <h2 align="center">Olá! 👋 Me chamo Raul de Oliveira Gonçalves</h2>
 
-<p align="center"><b>Software Engineer | Backend Specialist (PHP, Node.js & .NET)</b></p>
+<p align="center"><b>Engenheiro de Software | Full Stack Developer</b></p>
 
 ---
 
 ### 💼 Sobre mim
 
-Engenheiro de Software graduado em Ciência da Computação, com sólida experiência no desenvolvimento de ecossistemas escaláveis e modernização de sistemas legados. Atualmente, sou Desenvolvedor Full Stack na **Versa Tecnologia**.
-Especialista no ecossistema **PHP (Laravel, Lumen, Hyperf)** e **Node.js**, aplico rigorosamente boas práticas como **DDD, Clean Architecture e SOLID**.
-Estou em constante evolução, aprofundando meus conhecimentos em **HyperF** e no ecossistema **.NET**.
+Desenvolvedor Full Stack e bacharelado em Ciência da Computação, com sólida base em engenharia de backend e arquitetura de sistemas. Atualmente, atuo como Desenvolvedor Full Stack na **Versa Saúde**.
+
+Sou especialista no ecossistema **PHP (Laravel, Octane, Lumen e Hyperf)** e **JavaScript/TypeScript (Node.js, Next.js, Vue.js)**. Meu foco principal está na modernização de monolitos, integrações complexas e desenvolvimento de plataformas SaaS (Multi-tenancy). Aplico rigorosamente boas práticas de design de software.
 
 ---
 
 ### 🚀 Stack e Tecnologias
 
-- 🔧 **Backend**: PHP (Laravel, Lumen, Hyperf), Node.js (Fastify, Express), .NET (C#)
-- 🏗️ **Arquitetura & APIs**: RESTful, HATEOAS, RPC, Microsserviços, Multitenancy, Swagger
-- 📦 **Qualidade & Testes**: PHPUnit, Jest, SOLID, Clean Architecture
-- ☁️ **Cloud & DevOps**: AWS (ECS, Lambda, S3), Docker, CI/CD (GitHub Actions, Bitbucket Pipelines)
-- 🗄️ **Bancos de Dados & Cache**: MySQL, PostgreSQL, MongoDB, Redis
-- 💻 **Frontend**: Next.js, React (Vite), Vue.js, Tailwind CSS
-- 🤖 **Ferramentas de IA**: GitHub Copilot, LLMs para refatoração e automação
+- ⚙️ **Backend**: PHP 8+ (Laravel, Octane, Lumen, Hyperf), Node.js (Express, Fastify), C# (.NET)
+- 💻 **Frontend**: Next.js, React, Vue.js, Tailwind CSS
+- ☁️ **Cloud, DevOps & Mensageria**: Docker, AWS, RabbitMQ, Redis, CI/CD (GitHub Actions e Bitbucket Pipelines)
+- 🧪 **Qualidade & Testes**: PHPUnit, Jest, PSR-12
+- 🗄️ **Bancos de Dados**: PostgreSQL, MySQL, MongoDB
 
 ---
 
@@ -32,9 +30,9 @@ Estou em constante evolução, aprofundando meus conhecimentos em **HyperF** e n
 
 ### 🌟 Destaques de Projetos
 
-- **[Multitenancy API](https://github.com/raulntjj/multitenancy-api)**: Arquitetura SaaS com isolamento de dados e auditoria segregada.
+- **[Subscription Tracker](https://github.com/raulntjj/subscription-tracker)**: Monorepo Full Stack (Laravel Octane + Next.js). com infraestrutura Docker orquestrada e testes automatizados.
 - **[Auth API .NET](https://github.com/raulntjj/auth-api)**: Serviço de autenticação robusto utilizando ASP.NET Core e JWT.
-- **[Planning App](https://eedja.com)**: SaaS completo para gestão escolar (Lumen + Next.js).
+- **[Multitenancy API](https://github.com/raulntjj/multitenancy-api)**: Solução arquitetural com isolamento de dados absoluto (*Database-per-tenant*), autenticação JWT e auditoria segregada.
 
 ---
 
